@@ -1,0 +1,13 @@
+th,td{
+    border: 1px solid;
+}
+th{
+    background-color: crimson;
+}
+td{
+    background-color: rgb(255, 232, 117);
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
