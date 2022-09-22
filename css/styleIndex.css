@@ -1,3 +1,7 @@
+body{
+    background-color:lightsteelblue;
+    font-family: 'Roboto Condensed', sans-serif;
+}
 th,td{
     border: 1px solid;
 }
@@ -10,4 +14,24 @@ td{
 h1{
     text-align: center;
     text-decoration: underline;
+}
+h2{
+    text-align: center;
+}
+iframe{
+    width: 100vw;
+    height:20vh;
+    overflow: hidden;
+    border: 0;
+}
+a{
+    text-decoration: none;
+    color: crimson;
+    font-size: large;
+}
+a:hover{
+    color:darkmagenta;
+}
+a:active{
+    color:blue;
 }
